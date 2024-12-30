@@ -12,8 +12,7 @@ I'm a **Software Developer** with a Master's degree in **Engineering Physics**. 
 
 ### Get in Touch 💬
 
-Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/joanagaivotapires)** to chat about tech, ideas, or just say hi!
-
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/joanagaivotapires)** !
 
 
 
