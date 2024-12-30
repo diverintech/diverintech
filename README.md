@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Joana
 
-I'm a **Software Developer** with a Master's degree in **Engineering Physics**. After my studies, I found in **programming** a great opportunity to develop new skills and stay updated with new technologies.
+I'm a **Software Developer** with a Master's degree in **Engineering Physics**. After completing my studies, I decided to pursue a career as a developer to stay updated with the technologies used in the industry. Currently, I work as a **frontend** developer, but I have a strong passion for understanding how everything works together.
 
 
 ### About Me 🌟
