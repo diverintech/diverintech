@@ -5,11 +5,10 @@ I'm a **Software Developer** with a Master's degree in **Engineering Physics**. 
 
 ### About Me 🌟
 
-- **Nature Enthusiast** 🌳
+- **Nature Explorer** 🌳
 - **Tech Lover** 💻
 - **Traveler** ✈️
-- **Electronics & Sensors Enthusiast** 🚀
-
+- **Electronics & Robotics Geek** 🤖
 
 ### Get in Touch 💬
 
