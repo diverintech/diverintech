@@ -1,7 +1,6 @@
-# Hi there! 👋 I'm Joana
+# Hi there! 👋 
 
-I’m a **Software Developer** with a Master’s degree in **Engineering Physics**, driven by a passion for understanding how technologies work together. After completing my studies, I transitioned into software development to stay at the forefront of innovation. Currently, I specialize as a frontend developer, creating intuitive and impactful user interfaces.
-
+My name is Joana and I'm based in Portugal. I’m a **Software Developer** with a Master’s degree in **Engineering Physics**, driven by a passion creating useful tools and pages that help make people's lives easier. After completing my studies, I transitioned into a career in software development to embrace my passion for technology and remain at the forefront of innovation.
 
 ### About Me 🌟
 
